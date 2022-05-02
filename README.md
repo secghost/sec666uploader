@@ -9,7 +9,7 @@ still blank ? try click blank view like it<br>
 
 ## Note
 
-- This shell no logger , i promise!
+- This uploader no logger , i promise!
 - We not responsible for the actions you have done with this uploader.
 - If you need BACOT about this uploader you can NYOCOT in root@sec666.host
 
