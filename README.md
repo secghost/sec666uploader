@@ -11,7 +11,7 @@ still blank ? try click blank view like it<br>
 
 - This shell no logger , i promise!
 - We not responsible for the actions you have done with this uploader.
-- If you need BACOT about this shell you can NYOCOT in root@sec666.host
+- If you need BACOT about this uploader you can NYOCOT in root@sec666.host
 
 ### Obfuscate or Encrypt
 - css obfuscate : https://www.phpkobo.com/css-obfuscator
