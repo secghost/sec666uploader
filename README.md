@@ -7,6 +7,13 @@ still blank ? try click blank view like it<br>
 
 ![](https://github.com/secghost/sec666uploader/blob/main/666.gif)
 
+## Update v1.2
+
+- add cmd
+- encrypt to minisize 0.1kb
+- have a server on https://up.sec666.host (You can enjoy the latest release without having to re-download the file here)
+- can bypass WAF like securi,bitninja,cloudfare,etc you can try in other WAF
+
 ## Note
 
 - This uploader no logger , i promise!
